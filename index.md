@@ -4,7 +4,7 @@ permalink: /standards/w3c-process/
 redirect_from: /
 layout: default
 github:
-  repository: w3c/wai-wai-about-w3c-process
+  repository: w3c/wai-about-w3c-process
 ---
 
 The Web Accessibility Initiative (WAI) develops web accessibility

@@ -5,6 +5,13 @@ permalink: /standards/w3c-process/
 layout: default
 github:
   repository: w3c/wai-about-w3c-process
+footer: >
+  <p>
+    <strong>Status:</strong>
+    Updated 16 February 2018. First published September 2006.<br>
+    Editor: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.
+    Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).
+  </p>
 ---
 
 The Web Accessibility Initiative (WAI) develops web accessibility

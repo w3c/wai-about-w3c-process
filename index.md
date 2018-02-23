@@ -1,7 +1,6 @@
 ---
 title: "How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute"
 permalink: /standards/w3c-process/
-redirect_from: /
 layout: default
 github:
   repository: w3c/wai-about-w3c-process

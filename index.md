@@ -27,9 +27,9 @@ The World Wide Web Consortium (W3C) develops web standards such as HTML, CSS, et
 W3C's web standards are called ***W3C Recommendations***. WAI has developed the following W3C Recommendations:
 
 -   Web Content Accessibility Guidelines, see [WCAG Overview]({{ "/standards-guidelines/wcag/" | relative_url }})
--   Authoring Tool Accessibility Guidelines, see [ATAG Overview](http://www.w3.org/WAI/intro/atag.php)
--   User Agent Accessibility Guidelines, see [UAAG Overview](http://www.w3.org/WAI/intro/uaag.php)
--   Accessible Rich Internet Applications, see [WAI-ARIA Overview](https://www.w3.org/WAI/intro/aria)
+-   Authoring Tool Accessibility Guidelines, see [ATAG Overview](({{ "/standards-guidelines/atag/" | relative_url }}
+-   User Agent Accessibility Guidelines, see [UAAG Overview](({{ "/standards-guidelines/uaag/" | relative_url }})
+-   Accessible Rich Internet Applications, see [WAI-ARIA Overview]({{ "/standards-guidelines/aria/" | relative_url }})
 
 **\[WAI Accessibility Guidelines\] that are \[W3C Recommendations\] are
 \[Web Standards\]**
@@ -80,10 +80,10 @@ through the process described above.
     and practical examples of how to meet WCAG.
 -   **WAI Resources** and EOWG Resources cover a wide range of web
     accessibility topics, such as [Essential Components of Web
-    Accessibility](http://www.w3.org/WAI/intro/components.php), [WCAG
+    Accessibility]({{ "/fundamentals/components/" | relative_url }}), [WCAG
     2.0 at a Glance](http://www.w3.org/WAI/WCAG20/glance/Overview.html),
     [Easy Checks - A First Review of Web
-    Accessibility](https://www.w3.org/WAI/eval/preliminary), and many
+    Accessibility]({{ "/test-evaluation/preliminary/" | relative_url }}), and many
     others listed in the [WAI
     Resources](http://www.w3.org/WAI/Resources/Overview).
 

@@ -26,7 +26,7 @@ The World Wide Web Consortium (W3C) develops web standards such as HTML, CSS, et
 
 W3C's web standards are called ***W3C Recommendations***. WAI has developed the following W3C Recommendations:
 
--   Web Content Accessibility Guidelines, see [WCAG Overview](http://www.w3.org/WAI/intro/wcag.php)
+-   Web Content Accessibility Guidelines, see [WCAG Overview]({{ "/standards-guidelines/wcag/" | relative_url }})
 -   Authoring Tool Accessibility Guidelines, see [ATAG Overview](http://www.w3.org/WAI/intro/atag.php)
 -   User Agent Accessibility Guidelines, see [UAAG Overview](http://www.w3.org/WAI/intro/uaag.php)
 -   Accessible Rich Internet Applications, see [WAI-ARIA Overview](https://www.w3.org/WAI/intro/aria)

@@ -27,7 +27,7 @@ The World Wide Web Consortium (W3C) develops web standards such as HTML, CSS, et
 W3C's web standards are called ***W3C Recommendations***. WAI has developed the following W3C Recommendations:
 
 -   Web Content Accessibility Guidelines, see [WCAG Overview]({{ "/standards-guidelines/wcag/" | relative_url }})
--   Authoring Tool Accessibility Guidelines, see [ATAG Overview]({{ "/standards-guidelines/atag/" | relative_url }}
+-   Authoring Tool Accessibility Guidelines, see [ATAG Overview]({{ "/standards-guidelines/atag/" | relative_url }})
 -   User Agent Accessibility Guidelines, see [UAAG Overview]({{ "/standards-guidelines/uaag/" | relative_url }})
 -   Accessible Rich Internet Applications, see [WAI-ARIA Overview]({{ "/standards-guidelines/aria/" | relative_url }})
 
@@ -38,28 +38,28 @@ The milestones that a W3C "technical report" goes through on its way to
 becoming a W3C Recommendation are listed below.
 {:#stages}
 
-1.  {:#wd}![draft documents:]({{site.github.url}}/content-images/wai-about-w3c-process/wd.gif){:style="float:left; margin-right: 1em; clear: left;"} **Working Draft**: Working Drafts
+1.  {:#wd}![draft documents:]({{ "/content-images/wai-about-w3c-process/wd.gif" | relative_url }}){:style="float:left; margin-right: 1em; clear: left;"} **Working Draft**: Working Drafts
     are published and announced specifically to ask for review and input
     from the community. Often there are issues that a Working Group
     would particularly like input on. Usually multiple Working Drafts of
     a technical report are published.
-2.  {:#lcwd}![complete technical report:]({{site.github.url}}/content-images/wai-about-w3c-process/lcwd.gif){:style="float:left; margin-right: 1em; clear: left;"} **Wide Review
+2.  {:#lcwd}![complete technical report:]({{ "/content-images/wai-about-w3c-process/lcwd.gif" | relative_url }}){:style="float:left; margin-right: 1em; clear: left;"} **Wide Review
     Working Draft**: When a Working Group believes it has addressed all
     comments and technical requirements, it provides the complete
     document for community review and announces that it is ready for
     wide review.
-3.  {:#cr}![using computer with technical report:]({{site.github.url}}/content-images/wai-about-w3c-process/cr.gif){:style="float:left; margin-right: 1em; clear: left;"} **Candidate
+3.  {:#cr}![using computer with technical report:]({{ "/content-images/wai-about-w3c-process/cr.gif" | relative_url }}){:style="float:left; margin-right: 1em; clear: left;"} **Candidate
     Recommendation**: The main purpose of Candidate Recommendation is to
     ensure that the technical report can be implemented. W3C encourages
     developers to use the technical report in their projects. The
     technical report is stable at this stage; however, it may change
     based on implementation experience.
-4.  {:#pr}![endorsing technical report:]({{site.github.url}}/content-images/wai-about-w3c-process/pr.gif){:style="float:left; margin-right: 1em; clear: left;"} **Proposed
+4.  {:#pr}![endorsing technical report:]({{ "/content-images/wai-about-w3c-process/pr.gif" | relative_url }}){:style="float:left; margin-right: 1em; clear: left;"} **Proposed
     Recommendation**: After there are implementations of each feature of
     the technical report, W3C announces it as a Proposed Recommendation.
     At this stage, the report is submitted to the W3C Membership for
     endorsement.
-5.  {:#rec}![approved technical report:]({{site.github.url}}/content-images/wai-about-w3c-process/rec.gif){:style="float:left; margin-right: 1em; clear: left;"} **W3C Recommendation
+5.  {:#rec}![approved technical report:]({{ "/content-images/wai-about-w3c-process/rec.gif" | relative_url }}){:style="float:left; margin-right: 1em; clear: left;"} **W3C Recommendation
     (Web Standard)**: Once there is significant support for the
     technical report from the W3C Members, the W3C Director, and the
     public, it is published as a Recommendation. W3C encourages
@@ -83,17 +83,17 @@ through the process described above.
     Accessibility]({{ "/fundamentals/components/" | relative_url }}), [WCAG
     2.0 at a Glance](http://www.w3.org/WAI/WCAG20/glance/Overview.html),
     [Easy Checks - A First Review of Web
-    Accessibility]({{ "/test-evaluation/preliminary/" | relative_url }}), and many
+    Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }}), and many
     others listed in the [WAI
     Resources](http://www.w3.org/WAI/Resources/Overview).
 
 WAI's W3C Recommendations, Working Group Notes, and Resources are
-developed in [WAI Working Groups](http://www.w3.org/WAI/groups.html)
+developed in [WAI Working Groups]({{ "/about/groups/" | relative_url }})
 with input from the community. WAI actively encourages broad
 participation from industry, disability organizations, accessibility
 researchers, government, and others interested in web accessibility.
 
-**[Participating in WAI](http://www.w3.org/WAI/participation)**
+**[Participating in WAI]({{ "/get-involved/" | relative_url }})**
 describes ways that you can contribute to WAI's accessibility work,
 including reviewing and commenting on WAI guidelines as they are being
 developed.

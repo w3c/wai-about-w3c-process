@@ -14,6 +14,10 @@ footer: >
   </p>
 ---
 
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Introduction" class="full" %}
+{:/}
+
 The Web Accessibility Initiative (WAI) develops web accessibility
 guidelines, technical specifications, and educational resources to help
 make the web accessible to people with disabilities. This document
@@ -22,9 +26,28 @@ introduces how WAI works through a process designed to:
 -   ensure broad community input, and
 -   encourage [consensus](http://www.w3.org/2005/10/Process-20051014/policies.html#Consensus) development.
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" class="simple" %}
+{:/}
+
+{::options toc_levels="2" /}
+
+-   This text will be replaced by the TOC.
+{:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
+
+## W3C Standards {#standards}
+
 The World Wide Web Consortium (W3C) develops web standards such as HTML, CSS, etc. WAI is part of W3C and follows the [W3C Process](http://www.w3.org/Consortium/Process/) for developing web standards.
 
-W3C's web standards are called ***W3C Recommendations***. WAI has developed the following W3C Recommendations:
+W3C's web standards are called ***W3C Recommendations***. WAI has developed several W3C Recommendations, including:
 
 -   Web Content Accessibility Guidelines, see [WCAG Overview]({{ "/standards-guidelines/wcag/" | relative_url }})
 -   Authoring Tool Accessibility Guidelines, see [ATAG Overview]({{ "/standards-guidelines/atag/" | relative_url }})
@@ -33,6 +56,8 @@ W3C's web standards are called ***W3C Recommendations***. WAI has developed the 
 
 **\[WAI Accessibility Guidelines\] that are \[W3C Recommendations\] are
 \[Web Standards\]**
+
+## Milestones {#milestones}
 
 The milestones that a W3C "technical report" goes through on its way to
 becoming a W3C Recommendation are listed below.
@@ -69,6 +94,8 @@ That was a simplified description of the process. For the definitive
 version, see the [W3C Process Document, Section 7: W3C Technical Report
 Development Process](http://www.w3.org/Consortium/Process/#Reports).
 
+## Other Resources {#other}
+
 WAI also develops documents that support the guidelines and do not go
 through the process described above.
 {:#other_docs}
@@ -86,6 +113,8 @@ through the process described above.
     Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }}), and many
     others listed in the [WAI
     Resources](http://www.w3.org/WAI/Resources/Overview).
+    
+## Community Coordination {#community}
 
 WAI's W3C Recommendations, Working Group Notes, and Resources are
 developed in [WAI Working Groups]({{ "/about/groups/" | relative_url }})

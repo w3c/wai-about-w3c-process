@@ -114,7 +114,7 @@ through the process described above.
     others listed in the [WAI
     Resources](http://www.w3.org/WAI/Resources/Overview).
     
-## Community Coordination {#community}
+## Community Collaboration {#community}
 
 WAI's W3C Recommendations, Working Group Notes, and Resources are
 developed in [WAI Working Groups]({{ "/about/groups/" | relative_url }})

@@ -34,7 +34,7 @@ introduces how WAI works through a process designed to:
 {% include_cached toc.html type="start" title="Page Contents" class="simple" %}
 {:/}
 
-{::options toc_levels="2" /}
+{::options toc_levels="2,3" /}
 
 -   This text will be replaced by the TOC.
 {:toc}
@@ -57,7 +57,7 @@ W3C's web standards are called ***W3C Recommendations***. WAI has developed seve
 **\[WAI Accessibility Guidelines\] that are \[W3C Recommendations\] are
 \[Web Standards\]**
 
-## Milestones {#milestones}
+### Milestones {#milestones}
 
 The milestones that a W3C "technical report" goes through on its way to
 becoming a W3C Recommendation are listed below.

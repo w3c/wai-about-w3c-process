@@ -5,6 +5,7 @@ permalink: /standards-guidelines/w3c-process/
 layout: default
 github:
   repository: w3c/wai-about-w3c-process
+feedbackmail: wai@w3.org
 footer: >
   <p><strong>Date:</strong> Updated 16 February 2018. First published September 2006.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>

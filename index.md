@@ -135,6 +135,3 @@ have less weight, and a Working Group might not be able to make
 substantive changes late in the process. The W3C Process Document
 provides more information on [Reviews and Review
 Responsibilities](https://www.w3.org/Consortium/Process/#doc-reviews).
-
-The review announcements tell you the review period dates and where to
-send comments.

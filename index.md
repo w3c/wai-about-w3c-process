@@ -23,7 +23,7 @@ make the web accessible to people with disabilities. This document
 introduces how WAI works through a process designed to:
 
 -   ensure broad community input, and
--   encourage [consensus](https://www.w3.org/2020/Process-20200915/#Consensus) development.
+-   encourage [consensus](https://www.w3.org/Consortium/Process/#Consensus) development.
 
 {::nomarkdown}
 {% include box.html type="end" %}

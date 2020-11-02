@@ -7,7 +7,7 @@ github:
   repository: w3c/wai-about-w3c-process
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated 16 February 2018. First published September 2006.</p>
+  <p><strong>Date:</strong> Updated 2 November 2020. First published September 2006.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -23,7 +23,7 @@ make the web accessible to people with disabilities. This document
 introduces how WAI works through a process designed to:
 
 -   ensure broad community input, and
--   encourage [consensus](http://www.w3.org/2005/10/Process-20051014/policies.html#Consensus) development.
+-   encourage [consensus](https://www.w3.org/Consortium/Process/#Consensus) development.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -61,6 +61,8 @@ W3C's web standards are called ***W3C Recommendations***. WAI has developed seve
 The milestones that a W3C "technical report" goes through on its way to
 becoming a W3C Recommendation are listed below.
 {:#stages}
+
+**Editor's Drafts** have no official standing, do not imply consensus of a Working Group, and are not endorsed by W3C.
 
 1.  {:#wd}![draft documents:]({{ "/content-images/wai-about-w3c-process/wd.gif" | relative_url }}){:style="float:left; margin-right: 1em; clear: left;"} **Working Draft**: Working Drafts
     are published and announced specifically to ask for review and input
@@ -100,20 +102,19 @@ through the process described above.
 {:#other_docs}
 
 -   **W3C Working Group Notes** are advisory technical reports, not
-    standards. Most of WAI's Techniques documents are Notes. They help
-    developers implement the WAI guidelines. For example, [Techniques
-    for WCAG](https://www.w3.org/TR/WCAG-TECHS/) gives specific details
-    and practical examples of how to meet WCAG.
+    standards.
 -   **WAI Resources** and EOWG Resources cover a wide range of web
     accessibility topics, such as [Essential Components of Web
     Accessibility]({{ "/fundamentals/components/" | relative_url }}), [WCAG
-    2.0 at a Glance](http://www.w3.org/WAI/WCAG20/glance/Overview.html),
+    2 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/),
     [Easy Checks - A First Review of Web
     Accessibility]({{ "/test-evaluate/preliminary/" | relative_url }}), and many
     others listed in the [WAI
-    Resources](http://www.w3.org/WAI/Resources/Overview).
+    Resources](https://www.w3.org/WAI/resources/).
     
-## Community Collaboration {#community}
+## Get WAI News for Community Collaboration {#community}
+
+To get WAI announcements of Working Drafts for review via e-mail, Twitter, or Atom/RSS feed, **see [Get WAI News](https://www.w3.org/WAI/news/subscribe/)**.
 
 WAI's W3C Recommendations, Working Group Notes, and Resources are
 developed in [WAI Working Groups]({{ "/about/groups/" | relative_url }})
@@ -134,12 +135,3 @@ have less weight, and a Working Group might not be able to make
 substantive changes late in the process. The W3C Process Document
 provides more information on [Reviews and Review
 Responsibilities](https://www.w3.org/Consortium/Process/#doc-reviews).
-
-To get WAI announcements, you can subscribe to the following:
-
--   [WAI Interest Group mailing
-    list](http://www.w3.org/WAI/IG/#mailinglist)
--   [WAI RSS Feed](http://www.w3.org/WAI/highlights/about-rss.html)
-
-The review announcements tell you the review period dates and where to
-send comments.

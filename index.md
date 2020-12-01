@@ -1,10 +1,23 @@
 ---
+# translation notes are after "#" in this section
+
 title: "How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute"
 title_html: "How WAI Develops Accessibility Standards through the W3C Process:<br> Milestones and Opportunities to Contribute"
-permalink: /standards-guidelines/w3c-process/
-layout: default
+nav_title: W3C Process for Developing Standards
+
+ref: /standards-guidelines/w3c-process/    # Translators, do not change this
+
 github:
   repository: w3c/wai-about-w3c-process
+  path: index.md    # Add the language shortcode to the middle of the filename, for example: index.fr.md
+permalink: /standards-guidelines/w3c-process/   # Add the language shortcode to the end, with no slash at end, for example: /standards-guidelines/w3c-process/fr
+
+lang: en   # Change "en" to the translated language shortcode
+last_updated: 2020-02-20   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+# translators:   # remove from the beginning of the line: "# " and add your name(s)
+# - name: Translator 1's Name
+
+layout: default
 feedbackmail: wai@w3.org
 footer: >
   <p><strong>Date:</strong> Updated 2 November 2020. First published September 2006.</p>
@@ -12,6 +25,7 @@ footer: >
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
 ---
+
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Introduction" class="full" %}

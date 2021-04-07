@@ -9,7 +9,7 @@ ref: /standards-guidelines/w3c-process/    # Translators, do not change this
 
 github:
   repository: w3c/wai-about-w3c-process
-  path: index.md    # Add the language shortcode to the middle of the filename, for example: index.fr.md
+  path: content/index.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
 permalink: /standards-guidelines/w3c-process/   # Add the language shortcode to the end, with no slash at end, for example: /standards-guidelines/w3c-process/fr
 
 lang: en   # Change "en" to the translated language shortcode

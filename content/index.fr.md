@@ -33,10 +33,10 @@ footer: >
 {% include box.html type="start" h="2" title="Introduction" class="full" %}
 {:/}
 
-L'Initiative pour l'accessibilité du Web (WAI) élabore les recommandations en matière d'accessibilité Web, les spécifications techniques et les ressources pédagogiques dans le but de rendre le Web accessible pour les personnes handicapées. Ce document introduit comment la WAI travaille selon un processus conçu pour :
+L'Initiative pour l'accessibilité du Web (WAI) élabore les règles en matière d'accessibilité Web, les spécifications techniques et les ressources pédagogiques dans le but de rendre le Web accessible pour les personnes en situation de handicap. Ce document introduit comment la WAI travaille selon un processus conçu pour :
 
 -   assurer une large participation de la communauté et
--   encourager la mise en place d'un [consensus](https://www.w3.org/Consortium/Process/#Consensus).
+-   encourager le développement du [consensus](https://www.w3.org/Consortium/Process/#Consensus).
 
 {::nomarkdown}
 {% include box.html type="end" %}

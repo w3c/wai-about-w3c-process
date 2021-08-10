@@ -33,7 +33,7 @@ footer: >
 {% include box.html type="start" h="2" title="Introduction" class="full" %}
 {:/}
 
-L'Initiative pour l'accessibilité du Web (WAI) élabore les recommandations en matière d'accessibilité Web, les spécifications techniques et les ressources pédagogiques dans le but de rendre le Web accessible pour les personnes handicapées. Ce document introduit comment la WAI travaille selon un processus conçu pour :
+L'Initiative pour l'accessibilité du Web (WAI) élabore les recommandations en matière d'accessibilité Web, les spécifications techniques et les ressources pédagogiques dans le but de rendre le Web accessible pour les personnes en situation de handicap. Ce document introduit comment la WAI travaille selon un processus conçu pour :
 
 -   assurer une large participation de la communauté et
 -   encourager la mise en place d'un [consensus](https://www.w3.org/Consortium/Process/#Consensus).
@@ -78,12 +78,12 @@ Les étapes importantes par lesquelles doit passer le "rapport technique" pour d
 
 1.  {:#wd}![draft documents:]({{ "/content-images/wai-about-w3c-process/wd.gif" | relative_url }}){:style="float:left; margin-right: 1em; clear: left;"} **Les travaux préliminaires** : les travaux préliminaires sont publiés et annoncés dans le but de demander une révision et une participation de la communauté. Souvent, un groupe de travail souhaite une contribution particulière pour certaines questions. Habituellement, plusieurs travaux préliminaires d'un rapport technique sont publiés.
 2.  {:#lcwd}![complete technical report:]({{ "/content-images/wai-about-w3c-process/lcwd.gif" | relative_url }}){:style="float:left; margin-right: 1em; clear: left;"} **Révision générale des travaux préliminaires** : lorsqu'un groupe de travail pense avoir répondu à tous les commentaires et aux besoins techniques, il fournit le document complet pour que la communauté le révise et annonce que le document est prêt pour une révision générale.
-3.  {:#cr}![using computer with technical report:]({{ "/content-images/wai-about-w3c-process/cr.gif" | relative_url }}){:style="float:left; margin-right: 1em; clear: left;"} **Recommandation candidate** : L'objectif premier du statut de recommandation candidate est de s'assurer que le rapport technique peut être implémenté. Le W3C encourage les développeurs à utiliser le rapport technique dans leurs projets. Le rapport technique est stable à cette étape ; toutefois, il pourrait être modifié en fonction des résultats de l'implémentation.
-4.  {:#pr}![endorsing technical report:]({{ "/content-images/wai-about-w3c-process/pr.gif" | relative_url }}){:style="float:left; margin-right: 1em; clear: left;"} **Proposition de recommandation** : après l'implémentation de chaque étape du rapport technique, le W3C annonce la proposition de recommandation. À ce stade, le rapport est soumis aux membres du W3C pour être approuvé.
+3.  {:#cr}![using computer with technical report:]({{ "/content-images/wai-about-w3c-process/cr.gif" | relative_url }}){:style="float:left; margin-right: 1em; clear: left;"} **Recommandation candidate** : L'objectif principal du statut de recommandation candidate est de s'assurer que le rapport technique peut être implémenté. Le W3C encourage les développeurs à utiliser le rapport technique dans leurs projets. Le rapport technique est stable à cette étape ; toutefois, il pourrait être modifié en fonction des résultats de l'implémentation.
+4.  {:#pr}![endorsing technical report:]({{ "/content-images/wai-about-w3c-process/pr.gif" | relative_url }}){:style="float:left; margin-right: 1em; clear: left;"} **Proposition de recommandation** : après l'implémentation de chaque fonctionnalité du rapport technique, le W3C annonce la proposition de recommandation. À ce stade, le rapport est soumis aux membres du W3C pour être approuvé.
 5.  {:#rec}![approved technical report:]({{ "/content-images/wai-about-w3c-process/rec.gif" | relative_url }}){:style="float:left; margin-right: 1em; clear: left;"} **Recommandation du W3C
     (Standard Web)** : Lorsque le rapport technique est approuvé par les membres, le directeur et le public du W3C, il est publié en tant que recommandation. Le W3C encourage le déploiement à grande échelle de ses recommandations.
 
-Il s'agit d'une description simplifiée du processus. Pour la version définitive, consultez le [document sur le processus du W3C, section 7 : Processus de développement d'un rapport technique du W3C](http://www.w3.org/Consortium/Process/#Reports).
+C'était une description simplifiée du processus. Pour la version définitive, consultez le [document sur le processus du W3C, section 7 : Processus de développement d'un rapport technique du W3C](http://www.w3.org/Consortium/Process/#Reports).
 
 ## Ressources complémentaires {#other}
 
@@ -99,7 +99,7 @@ La WAI élabore également des documents qui corroborent les recommandations et 
 Pour obtenir les annonces de la WAI à propos des travaux préliminaires à réviser par e-mail, Twitter, ou Atom/RSS feed, **allez sur [Obtenir les actualités de la WAI](https://www.w3.org/WAI/news/subscribe/)**.
 
 Les recommandations du W3C et de la WAI, les notes de groupe de travail et les ressources sont élaborées au sein des [groupes de travail de la WAI]({{ "/about/groups/" | relative_url }})
-avec la participation de la communauté. La WAI encourage activement la participation de l'industrie, des organisations de personnes handicapées, des chercheurs en accessibilité, du gouvernement, et d'autres interessés par l'accessibilité Web.
+avec la participation de la communauté. La WAI encourage activement la participation de l'industrie, des organisations de personnes en situation de handicap, des chercheurs en accessibilité, du gouvernement, et d'autres interessés par l'accessibilité Web.
 
 **[Participer à la WAI]({{ "/get-involved/" | relative_url }})**
 décrit les manières dont vous pouvez contribuer aux travaux axés sur l'accessibilité de la WAI, notamment en révisant et en commentant les recommandations de la WAI au fur et à mesure de leur élaboration.

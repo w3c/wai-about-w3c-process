@@ -13,11 +13,12 @@ github:
 permalink: /standards-guidelines/w3c-process/fr   # Add the language shortcode to the end, with no slash at end, for example: /standards-guidelines/w3c-process/fr
 
 lang: fr   # Change "en" to the translated language shortcode
-last_updated: 2020-12-08   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-08-12   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators:   # remove from the beginning of the line: "# " and add your name(s)
 - name: "Sofia Ahmed"
 contributors:
 - name: "Sandra Velarde Gonzalez (ETNIC)"
+- name: "Victoria Menezes Miller"
 
 layout: default
 feedbackmail: wai@w3.org

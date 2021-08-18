@@ -17,8 +17,8 @@ last_updated: 2021-08-12   # Put the date of this translation YYYY-MM-DD (with m
 translators:   # remove from the beginning of the line: "# " and add your name(s)
 - name: "Sofia Ahmed"
 contributors:
-- name: "Sandra Velarde Gonzalez (ETNIC)"
 - name: "Victoria Menezes Miller"
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 
 layout: default
 feedbackmail: wai@w3.org

@@ -72,11 +72,10 @@ W3C's web standards are called ***W3C Recommendations***. WAI has developed seve
 
 ### Milestones {#milestones}
 
-The milestones that a W3C "technical report" goes through on its way to
-becoming a W3C Recommendation are listed below.
-{:#stages}
+**Editor's Drafts** have no official standing and do not necessarily represent Working Group consensus; that is, the draft might include proposals that the Working Group has not agreed on.
 
-**Editor's Drafts** have no official standing, do not imply consensus of a Working Group, and are not endorsed by W3C.
+The milestones that a W3C "technical report" goes through on its way to becoming a W3C Recommendation are listed below.
+{:#stages}
 
 1.  {:#wd}![draft documents:]({{ "/content-images/wai-about-w3c-process/wd.gif" | relative_url }}){:style="float:left; margin-right: 1em; clear: left;"} **Working Draft**: Working Drafts
     are published and announced specifically to ask for review and input
